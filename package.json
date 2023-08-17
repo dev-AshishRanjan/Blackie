@@ -1,0 +1,21 @@
+{
+  "name": "blackie",
+  "displayName": "Blackie",
+  "description": "Blackie Theme is a dark theme specially designed for developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blackie-color-theme.json"
+      }
+    ]
+  }
+}
