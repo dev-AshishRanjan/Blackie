@@ -611,9 +611,18 @@
     },
     {
       "name": "Markup links",
-      "scope": ["markup.underline.link", "string.other.link"],
+      "scope": ["markup.underline.link"],
       "settings": {
-        "foreground": "#489ee3"
+        "foreground": "#489ee3",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markup links Text",
+      "scope": ["string.other.link"],
+      "settings": {
+        "foreground": "#5B8FB9",
+        "fontStyle": "bold"
       }
     },
     {
@@ -621,7 +630,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5B8FB9"
+        "foreground": "#489ee3"
       }
     },
     {
@@ -629,7 +638,7 @@
       "scope": ["markup.bold"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#5B8FB9"
+        "foreground": "#489ee3"
       }
     },
     {
@@ -643,14 +652,18 @@
       "name": "Markup Code",
       "scope": ["markup.raw"],
       "settings": {
-        "background": "#5B8FB905"
+        "background": "#5B8FB905",
+        "foreground": "#489ee3",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Markup Code Inline",
       "scope": ["markup.raw.inline"],
       "settings": {
-        "background": "#5B8FB90f"
+        "background": "#5B8FB90f",
+        "foreground": "#489ee3",
+        "fontStyle": "italic"
       }
     },
     {
