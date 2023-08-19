@@ -3,6 +3,7 @@
   "displayName": "Blackie",
   "description": "Blackie Theme is a dark theme specially designed for developers",
   "version": "0.0.1",
+  "publisher": "KumarAshishRanjan",
   "engines": {
     "vscode": "^1.54.0"
   },
