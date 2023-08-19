@@ -6,6 +6,17 @@
   "engines": {
     "vscode": "^1.54.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-AshishRanjan/Blackie"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Black theme",
+    "Kumar Ashish Ranjan",
+    "blackie"
+  ],
   "categories": [
     "Themes"
   ],

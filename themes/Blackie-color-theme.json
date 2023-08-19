@@ -3,7 +3,6 @@
 // #5B8FB9
 // #B6EADA
 
-
 {
 	"name": "Blackie",
 	"colors": {
@@ -15,7 +14,7 @@
     "icon.foreground": "#5B8FB9",
     "errorForeground": "#5B8FB9",
     "descriptionForeground": "#5B8FB9",
-    "textBlockQuote.background": "#301E67",
+    "textBlockQuote.background": "#03001C",
     "textLink.foreground": "#5B8FB9",
     "textLink.activeForeground": "#5B8FB9",
     "textPreformat.foreground": "#301E67",
@@ -149,8 +148,9 @@
     "diffEditor.diagonalFill": "#6b7d8f1f",
     "editorWidget.background": "#03001C",
     "editorWidget.border": "#6b7d8f1f",
-    "editorHoverWidget.background": "#301E67",
-    "editorHoverWidget.border": "#6b7d8f1f",
+    "editorHoverWidget.background": "#03001C",
+    "editorHoverWidget.border": "#301E67",
+    "editorHoverWidget.foreground": "#6eaadb",
     "editorSuggestWidget.background": "#03001C",
     "editorSuggestWidget.border": "#6b7d8f1f",
     "editorSuggestWidget.highlightForeground": "#5B8FB9",
@@ -162,10 +162,10 @@
     "peekViewTitle.background": "#56728f1f",
     "peekViewTitleDescription.foreground": "#5B8FB9",
     "peekViewTitleLabel.foreground": "#5B8FB9",
-    "peekViewEditor.background": "#301E67",
+    "peekViewEditor.background": "#03001C",
     "peekViewEditor.matchHighlightBackground": "#5B8FB9cc",
     "peekViewEditor.matchHighlightBorder": "#8f30efcc",
-    "peekViewResult.background": "#301E67",
+    "peekViewResult.background": "#03001C",
     "peekViewResult.fileForeground": "#5B8FB9",
     "peekViewResult.lineForeground": "#5B8FB9",
     "peekViewResult.matchHighlightBackground": "#5B8FB9cc",
@@ -197,7 +197,7 @@
     "extensionButton.prominentHoverBackground": "#f9a52e",
     "pickerGroup.border": "#6b7d8f1f",
     "pickerGroup.foreground": "#5B8FB980",
-    "debugToolBar.background": "#301E67",
+    "debugToolBar.background": "#03001C",
     "debugIcon.breakpointForeground": "#ed9366",
     "debugIcon.breakpointDisabledForeground": "#ed936680",
     "debugConsoleInputIcon.foreground": "#5B8FB9",
@@ -219,7 +219,7 @@
     "keybindingLabel.border": "#5B8FB91a",
     "keybindingLabel.bottomBorder": "#5B8FB91a",
     "terminal.background": "#000",
-    "terminal.foreground": "#00e1ff",
+    "terminal.foreground": "#5B8FB9",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#ea6c6d",
     "terminal.ansiGreen": "#6cbf43",
