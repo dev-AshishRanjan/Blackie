@@ -27,17 +27,17 @@
 # Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View -> Extensions`
-2. Search for `Blackie`
-3. Click on **Blackie**
+2. Search for `Blacky`
+3. Click on **Blacky**
 4. Click **Install** to install it
 5. Click **Reload** to reload the editor
-6. Code > Preferences > Color Theme > **Blackie**
+6. Code > Preferences > Color Theme > **Blacky**
 
 ---
 
 # Theme Preview
 
-Here are some pics showcasing the **_Blackie_** Theme
+Here are some pics showcasing the **_Blacky_** Theme
 
 | DARK                 |
 | -------------------- |

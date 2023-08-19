@@ -1,7 +1,7 @@
 {
-  "name": "blackie",
-  "displayName": "Blackie",
-  "description": "Blackie Theme is a dark theme specially designed for developers",
+  "name": "blacky",
+  "displayName": "Blacky",
+  "description": "Blacky is a dark theme specially designed for developers",
   "version": "0.0.1",
   "publisher": "KumarAshishRanjan",
   "engines": {
@@ -16,7 +16,8 @@
     "dark theme",
     "Black theme",
     "Kumar Ashish Ranjan",
-    "blackie"
+    "blackie",
+    "blacky"
   ],
   "categories": [
     "Themes"
@@ -24,7 +25,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blackie",
+        "label": "Blacky",
         "uiTheme": "vs-dark",
         "path": "./themes/Blackie-color-theme.json"
       }

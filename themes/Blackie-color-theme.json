@@ -4,7 +4,7 @@
 // #B6EADA
 
 {
-	"name": "Blackie",
+	"name": "Blacky",
 	"colors": {
     "focusBorder": "#03001C",
     "foreground": "#5B8FB9",
@@ -206,12 +206,12 @@
     "welcomePage.progress.background": "#5B8FB91a",
     "welcomePage.buttonBackground": "#5B8FB966",
     "walkThrough.embeddedEditorBackground": "#301E67",
-    "gitDecoration.modifiedResourceForeground": "#478accb3",
+    "gitDecoration.modifiedResourceForeground": "#c7c757b3",
     "gitDecoration.deletedResourceForeground": "#ff7383b3",
     "gitDecoration.untrackedResourceForeground": "#6cbf43b3",
     "gitDecoration.ignoredResourceForeground": "#5B8FB980",
-    "gitDecoration.conflictingResourceForeground": "",
-    "gitDecoration.submoduleResourceForeground": "#a37accb3",
+    "gitDecoration.conflictingResourceForeground": "#489ee3",
+    "gitDecoration.submoduleResourceForeground": "#489ee3b3",
     "settings.headerForeground": "#5B8FB9",
     "settings.modifiedItemIndicator": "#478acc",
     "keybindingLabel.background": "#5B8FB91a",
