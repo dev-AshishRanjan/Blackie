@@ -2,7 +2,7 @@
   "name": "blacky",
   "displayName": "Blacky",
   "description": "Blacky is a dark theme specially designed for developers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "KumarAshishRanjan",
   "engines": {
     "vscode": "^1.54.0"
